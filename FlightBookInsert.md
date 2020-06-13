@@ -10,6 +10,7 @@ else // inserted csn exists
 	if (inserted cpassword is incorrect)
 	Print inserted data is wrong
 	return false
+Print Insert Flight datas to book
 Input FlightBook(flstar, fldes, fldepart) in screen
 Connect FlightList DB 
 // Check FlightList data
@@ -31,5 +32,5 @@ else // Could not insert data
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQzMzU4OTddfQ==
+eyJoaXN0b3J5IjpbMTcyODU1Mzg1NiwtMTExNDMzNTg5N119
 -->
